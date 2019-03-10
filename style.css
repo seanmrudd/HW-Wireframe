@@ -43,7 +43,8 @@ section {
 article {
     color: #ebebeb;
     background: #777;
-
+    padding: 20px;
+    margin: 20px;
 }
 
 #p #h1 {

@@ -30,8 +30,7 @@ nav {
 }
 
 .container {
-    width: 100%;
-    padding: 0;
+   display: flex;
 }
 
 section {
@@ -75,7 +74,6 @@ aside {
     margin-left: 20px;
     float: right;
     width: 37%;
-    height: 332px;
     overflow: auto;
 }
 
